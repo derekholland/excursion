@@ -1,10 +1,8 @@
 /* universal */
 body {
   background-color: black;
-  font-family: verdana;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
-
-
 }
 
 /* header  */
@@ -17,7 +15,6 @@ body {
 header p {
   color: aquamarine;
   font-size: 16px;
-  font-weight: normal;
   text-decoration: underline;
   /* text-align: center; */
 }
