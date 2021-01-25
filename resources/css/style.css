@@ -1,0 +1,23 @@
+/* universal */
+body {
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+
+
+}
+
+/* header  */
+.header {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+header p {
+  color: aquamarine;
+  font-size: 16px;
+  font-weight: normal;
+  text-decoration: underline;
+  text-align: center;
+}
