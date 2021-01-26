@@ -5,6 +5,12 @@ body {
   text-align: center;
 }
 
+a {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
 /* header  */
 .header {
   font-weight: normal;
@@ -12,12 +18,12 @@ body {
   color: white;
 }
 
-header p {
+/* header p {
   color: aquamarine;
   font-size: 16px;
   text-decoration: underline;
   /* text-align: center; */
-}
+} */
 
 /* Camping Section */
 
@@ -43,4 +49,9 @@ header p {
     color: white;
 }
 
-/*  */
+/* footer */
+/* footer a {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+} */
