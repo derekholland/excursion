@@ -5,7 +5,7 @@ body {
   text-align: center;
 }
 
-a {
+header p {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
@@ -40,4 +40,11 @@ a {
     font-weight: 300;
     font-size: 42px;
     color: white;
+}
+
+/* footer */
+footer p {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
 }
