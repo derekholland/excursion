@@ -31,3 +31,16 @@ header p {
   font-size: 21px;
   color: gray;
 }
+
+/* cell phone section */
+.phone img {
+  padding-top: 30px;
+}
+
+.phone h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+/*  */
